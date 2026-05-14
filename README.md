@@ -81,16 +81,6 @@ Also introduced a **Consistency-Performance Index (CPI)** — Consistency Score 
 
 ---
 
-## 💡 What This Project Demonstrates
-
-- End-to-end ETL pipeline development
-- Data cleaning and validation at scale
-- Feature engineering and metric design
-- Translating analysis into decision-support insights
-- Building interactive dashboards for non-technical audiences
-
----
-
 ## ▶️ How to Run
 
 ```bash
